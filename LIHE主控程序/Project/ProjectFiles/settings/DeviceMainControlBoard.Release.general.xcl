@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embecdded ARM\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embecdded ARM\arm\bin\armjlink2.dll" 
+
+"D:\LH01\DeviceMainControlBoard_V2.0\Code\Project\ProjectFiles\..\..\..\Data\MAIN_BOARD_Vxx.xx_H200.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embecdded ARM\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embecdded ARM\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embecdded ARM\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+

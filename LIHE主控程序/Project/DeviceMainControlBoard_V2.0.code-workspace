@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".\\..\\UCOS3.07"
+		},
+		{
+			"path": ".\\..\\CommonFunc"
+		},
+		{
+			"path": ".\\..\\Driver"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"actionimplementinc.h": "c",
+			"actionneedlewash.h": "c",
+			"tsc_needlewash.h": "c",
+			"tsc_base.h": "c",
+			"actioncommonbase.h": "c"
+		}
+	}
+}

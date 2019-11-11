@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "actiondishreactionandmixreagent.h": "c",
+        "systeminput.h": "c",
+        "systeminputindex.h": "c",
+        "mcu_port.h": "c",
+        "actionneedlesample.h": "c",
+        "actioncommonbase.h": "c",
+        "taskserviceconfig.h": "c",
+        "can2subinc.h": "c",
+        "can2suboutputwrite.h": "c",
+        "can2subphotoncount.h": "c",
+        "can2subneedleliquiddetectcommon.h": "c"
+    }
+}
